@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shubhaaamm/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Shubhaaamm/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Shubhaaamm/LeetCode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Shubhaaamm/LeetCode/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Shubhaaamm/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Shubhaaamm/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Shubhaaamm/LeetCode/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/Shubhaaamm/LeetCode/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
 | ------- |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Shubhaaamm/LeetCode/tree/master/0027-remove-element) |
+| [0189-rotate-array](https://github.com/Shubhaaamm/LeetCode/tree/master/0189-rotate-array) |
 ## Divide and Conquer
 |  |
 | ------- |
