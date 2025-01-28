@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Shubhaaamm/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Shubhaaamm/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Shubhaaamm/LeetCode/tree/master/0189-rotate-array) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Shubhaaamm/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,4 +71,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shubhaaamm/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Shubhaaamm/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Shubhaaamm/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+## Union Find
+|  |
+| ------- |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Shubhaaamm/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+## Matrix
+|  |
+| ------- |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Shubhaaamm/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 <!---LeetCode Topics End-->
